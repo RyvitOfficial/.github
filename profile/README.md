@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/ryvit-logo.png" alt="Ryvit Logo" width="180"/>
+  <img src="../Ryvit-logo.png" alt="Ryvit Logo" width="180"/>
 </p>
 
 <p align="center">
